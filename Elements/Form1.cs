@@ -25,9 +25,6 @@ namespace Elements
         public ElementTest()
         {
             InitializeComponent();
-            //Known Bugs: tabloda olduğu xpathden 4 büyük xpath çıkıyo, Fixed symtoms reason unknown
-
-
         }
 
         private void button1_Click(object sender, EventArgs e)
