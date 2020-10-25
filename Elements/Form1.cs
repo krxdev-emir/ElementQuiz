@@ -18,7 +18,7 @@ namespace Elements
 
         static HtmlAgilityPack.HtmlWeb web = new HtmlAgilityPack.HtmlWeb();
         HtmlAgilityPack.HtmlDocument doc = web.Load("https://en.wikipedia.org/wiki/List_of_chemical_elements");
-        int randomNum;
+        int randomNum = 1;
         Random rnd = new Random();
 
 
