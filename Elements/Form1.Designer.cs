@@ -97,9 +97,9 @@
             this.label1.Font = new System.Drawing.Font("Monospac821 BT", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.Location = new System.Drawing.Point(33, 159);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(111, 77);
+            this.label1.Size = new System.Drawing.Size(72, 77);
             this.label1.TabIndex = 2;
-            this.label1.Text = "He";
+            this.label1.Text = "H";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -109,9 +109,9 @@
             this.label2.Location = new System.Drawing.Point(19, 236);
             this.label2.Name = "label2";
             this.label2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label2.Size = new System.Drawing.Size(23, 25);
+            this.label2.Size = new System.Drawing.Size(21, 25);
             this.label2.TabIndex = 3;
-            this.label2.Text = "2";
+            this.label2.Text = "?";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label3
@@ -120,9 +120,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.Location = new System.Drawing.Point(54, 268);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(65, 22);
+            this.label3.Size = new System.Drawing.Size(20, 22);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Helium";
+            this.label3.Text = "?";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // nameCheck
